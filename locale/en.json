@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation Find",
+    "description": "Ctrl/Cmd+F in the conversation window to find loaded messages, highlight matches, move between them, and load earlier history from the find bar."
+  }
+}
